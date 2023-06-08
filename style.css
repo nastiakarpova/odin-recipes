@@ -10,7 +10,7 @@
 h1 {
     font-size: 72px;
     text-align: center;
-    margin: 50px 0;
+    margin: 50px 0 80px 0;
     
 }
 
@@ -32,6 +32,7 @@ img {
     display: flex;
     margin-right: auto;
     margin-left: 30px;
+    max-width: 400px;
 }
 
 p.credits {
@@ -58,12 +59,8 @@ a.recipe_link:hover {
 p.intro {
     margin-left: auto;
     line-height: 30px;
-    padding-left: 20px;
+    padding-left: 50px;
     margin-bottom: 30px;
-}
-
-strong {
-    color: #e0475b;
 }
 
 .container {
