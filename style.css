@@ -70,8 +70,5 @@ strong {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-div.image, div.text {
-    border: 2px solid black;
+    margin: 0 200px;
 }
