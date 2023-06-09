@@ -36,6 +36,7 @@ img {
 p.credits {
     font-size: 12px;
     color: #708090;
+    margin-bottom: 50px;
 }
 
 a.recipe_link {
@@ -63,8 +64,10 @@ p.intro {
     align-items: center;
     justify-content: center;
     margin: 0 200px;
+    flex-wrap: wrap;
 }
 
 .container > * {
     flex: 1;
+    min-width: 300px;
 }
